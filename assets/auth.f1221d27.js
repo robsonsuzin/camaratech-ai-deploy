@@ -1,0 +1,1 @@
+import{b as t}from"./index.0d3749aa.js";import{useAuth as r}from"./auth.e7b5d3cb.js";import"./pinia.81942998.js";import"./axios.ca9091c1.js";var s=t(async({router:a})=>{try{await r().me()}catch{console.log("Usu\xE1rio n\xE3o autenticado")}});export{s as default};
